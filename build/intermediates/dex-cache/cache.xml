@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="S:\SmDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_1ca259b1da60354c637b07d5ed7c3d6f207e6170.jar" />
+    </item>
+    <item
+        jar="S:\SmDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_598da3f055de1bc9a3917759ec596a0e2df38287.jar" />
+    </item>
+    <item
+        jar="S:\SmDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_31ac454c1128828a5814ea6d9af41ea5d2a3a190.jar" />
+    </item>
+    <item
+        jar="S:\SmDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_8a273e8d298383a090ad918e274999cc68bf6de3.jar" />
+    </item>
+    <item
+        jar="S:\SmDemo\app\build\intermediates\exploded-aar\me.wangyuwei\SmoothDrawerView\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6914c4edb24e52c6e612008a9b6e138572e48d4c">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\me.wangyuwei-SmoothDrawerView-1.0.0_bd5dd7e68f0d6b9bcebbc8224058566e35b74aa7.jar" />
+    </item>
+    <item
+        jar="S:\SmDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_3f8c216cb43c67e3928ff3663a382973c22ea77c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="S:\SmDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_eff36cb3dd5776bcc7dfe63d3c4af3d7d0b02909.jar" />
+    </item>
+
+</items>
