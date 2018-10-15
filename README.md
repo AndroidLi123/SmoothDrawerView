@@ -5,3 +5,7 @@
 # 原有效果
 
 ![](origin.gif)
+
+#仿写效果
+
+![](myversion.gif)
