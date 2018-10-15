@@ -4,4 +4,4 @@
 
 # 原有效果
 
-![origin.gif](https://github.com/416679828/SmoothDrawerView/master/origin.gif)
+![origin.gif](https://github.com/416679828/SmoothDrawerView/raw/master/origin.gif)
