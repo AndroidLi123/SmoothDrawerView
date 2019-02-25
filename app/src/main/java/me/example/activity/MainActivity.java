@@ -43,6 +43,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         a = 0;
         smoothDrawerView = (SmoothDrawerView) findViewById(R.id.smoothview);
+        a=1;
         for (String mImg : mImgs) {
             GalleryEntity entity = new GalleryEntity();
             entity.imgUrl = mImg;
