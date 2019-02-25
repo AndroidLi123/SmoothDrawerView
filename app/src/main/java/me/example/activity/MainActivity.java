@@ -14,7 +14,6 @@ public class MainActivity extends Activity {
 
     private SmoothDrawerView smoothDrawerView;
     private List<GalleryEntity> mEntities = new ArrayList<>();
-    private int a = 0;
     private String[] mImgs = new String[]{
             "http://tianniutupian.oss-cn-shanghai.aliyuncs.com/images/4ceb299085c44638bcf7e0ce8679e1de.png",
             "http://tianniutupian.oss-cn-shanghai.aliyuncs.com/images/dec2b20b02f645a887efd20afcc6b6c6.png",
@@ -41,9 +40,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        a = 0;
         smoothDrawerView = (SmoothDrawerView) findViewById(R.id.smoothview);
-        a=1;
         for (String mImg : mImgs) {
             GalleryEntity entity = new GalleryEntity();
             entity.imgUrl = mImg;
